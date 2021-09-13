@@ -1,0 +1,9 @@
+[package]
+name = "denoc"
+description = "Automatic Day/Night theme changer for Linux"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sergey Kasmy"]
+license = "MIT"
+
+[dependencies]
